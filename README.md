@@ -9,4 +9,5 @@ I've set up a couple Labels to use on issues.
 Discussion is for features that haven't been submitted to curse yet.   
 Submitted is for features that have been submitted to curse, but no feedback has been heard.   
 Confirmed is for features that an official curse source has confirmed are being worked on.   
-Denied is for features that an official curse source has stated will not be implemented.
+Denied is for features that an official curse source has stated will not be implemented.   
+Completed is for features that are already available in the app.
